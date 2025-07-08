@@ -1,0 +1,8 @@
+.vscode/
+*.log
+*.tmp
+*.temp
+node_modules/
+.env
+*.key
+desktop.ini
